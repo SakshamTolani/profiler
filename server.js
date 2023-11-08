@@ -4,6 +4,7 @@ const connectDB = require("./config/db");
 const userRoutes = require("./routes/userRoutes");
 const profileRoutes = require("./routes/profileRoutes");
 const { errorHandler, notFound } = require("./middlewares/errorMiddleware");
+const path = require("path");
 
 dotenv.config();
 connectDB();
