@@ -1,6 +1,6 @@
-# Portfolio MERN Project 🚀
+# Pro-FILER MERN Project 🚀
 
-Welcome to the Portfolio project! This project is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. It allows you to manage user profiles, timelines, projects, and contact messages for your portfolio website.
+Welcome to Pro-FILER! This project is a task for MERN Stack Developers. It involves creating a signup page, login page, profile page, and incorporating client-side validation and database storage.
 
 ## Backend API Endpoints 🛠️
 
